@@ -1,0 +1,20 @@
+{
+    "name": "md-template",
+    "displayName": "md_template",
+    "description": "markdown snippets for github readme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
