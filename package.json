@@ -3,6 +3,7 @@
     "displayName": "md_template",
     "description": "markdown snippets for github readme ",
     "version": "0.0.1",
+    "publisher": "oGranny",
     "engines": {
         "vscode": "^1.50.0"
     },
