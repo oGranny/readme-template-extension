@@ -98,8 +98,6 @@ download this extension directly from VS code [marketplace](https://marketplace.
 
 vscode extension for github readme snippet to quick start your project
 
-_For more examples, please refer to the [Documentation](https://github.com/oGranny/readme-template-extension)_
-
 
 
 <!-- ROADMAP -->
