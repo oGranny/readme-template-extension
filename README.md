@@ -25,7 +25,7 @@ email: example@email.com
     <a href="https://github.com/oGranny/readme-template-extension">
         <img src="assets/icon.png" alt="Logo" width="80" height="80">
     </a>
-    <h3 align="center">https://github.com/oGranny/readme-template-extension</h3>
+<h3 align="center"><a href="https://github.com/oGranny/readme-template-extension">readme-template-extension</a></h3>
     <p align="center">
         An awesome readme Template extension to quickstart your project
         <br />
