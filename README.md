@@ -29,7 +29,7 @@ email: example@email.com
     <p align="center">
         An awesome readme Template extension to quickstart your project
         <br />
-        <a href="https://github.com/oGranny/readme-template-extension"><strong>Explore the docs 📃</strong></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=oGranny.md-template"><strong>Visual studio market place 📃</strong></a>
         <br />
         <br />
         <a href="//github.com/Md-Template/ oGranny">View Demo</a>
@@ -80,7 +80,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <!-- GETTING STARTED -->
 ## Getting Started
-.
+* Download the extension
+* write `!!!` and click on the first option (make sure you are editing a markdown file)
 
 ### Prerequisites
 
